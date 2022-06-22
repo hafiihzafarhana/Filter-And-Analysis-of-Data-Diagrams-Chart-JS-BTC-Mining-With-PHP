@@ -17,13 +17,20 @@ Managing BTC data with SQL files that have been provided is very helpful informa
 
 Some main folders or Files will access :
 
-Folder:
+Folders:
 - conn
 - css
 - func
 - this is sql
 
-File:
+Files:
 - chart 1-8.php
 - index.php
 
+Some Features:
+- Pagination
+- Autocomplete for searching
+- Filter
+- Date Picker (Just for filter chart by date)
+
+This is how look:
