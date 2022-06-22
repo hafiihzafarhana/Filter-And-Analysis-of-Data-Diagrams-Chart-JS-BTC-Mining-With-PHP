@@ -12,7 +12,7 @@
     <link
       rel="shortcut icon"
       href="./assets/images/logo/logo.jpg"
-      type="image/x-icon"
+      type="image/x-icon" 
     />
     <title>Manage Data BTC</title>
 
